@@ -1,0 +1,24 @@
+{% for child in menu %}
+<li class="{% if child.selected %}current{% endif %}{% if child.children %}parent{% endif %}">
+  {% if not child.children %}
+  <a href="{{ child.url() }}">
+  {% else %}
+  <a href="#">
+  {% endif %}
+  <span class="menu-number">
+  {% if child.id %}
+      {{ child.id }}
+  {% endif %}
+  </span>
+  {{ child.title|upper}}
+  <span class="menu-desc">{{ child.subtitle }}</span>
+  </a>
+    {% if child.children %}
+    <ul>
+      {% for c in child.children %}
+      <li><a href="{{ c.url() }}">{{ c.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+</li>
+{% endfor %}

@@ -1,0 +1,19 @@
+.language {
+	margin: 10px auto 5px;
+	width: 30px;
+	height: 20px;
+	background-color: black;
+	text-align: center;
+	border-radius: 4px;
+}
+
+.language a {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+}
+
+.off {
+	background-color: #164141;
+}

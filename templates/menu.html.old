@@ -1,0 +1,12 @@
+{% for m in menu %}
+<li>
+  {{ m.title }}
+  {% if m.children %}
+	<ul>
+	  {% for n in m.children %}
+	  <li>{{ n.title }}</li>
+		{% endfor %}
+	</ul>
+	{% endif %}
+</li>
+{% endfor %}

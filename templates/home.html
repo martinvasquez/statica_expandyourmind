@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block main %}
+<!-- BEGIN HOME page content -->
+<div id="portfolio">
+		<!-- BEGIN .post (project) -->
+	<div class="post project"></div>
+
+	<div class="inner-content">
+		<h2 class="outer-bordered title">{{  home_topic }}</h2>
+	<!-- to put categories -->
+	</div>
+	<!-- BEGIN #portfolio-content -->
+    <div id="portfolio-content">
+    	{{ home_services }}
+	</div>
+</div>
+{% endblock %}
+
+{% block bottom %}
+<!-- BEGIN #clients -->
+<div id="clients" class="content">
+	<h2 class="bordered">Clients</h2>
+	{{ home_clients }}
+</div>
+<!-- END #clients -->
+{% endblock %}
