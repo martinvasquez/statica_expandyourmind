@@ -1,0 +1,3 @@
+#Psicoanálisis
+
+El psicoanálisis es un método terapéutico que, debido a la configuración establecida por el analista, permite una exploración profunda de los rasgos de la personalidad del paciente que acude para recibir tratamiento. Es ambicioso en sus objetivos. El analista y el paciente se reúnen cuatro o cinco veces por semana, y en algunas ocasiones tres, en los tiempos y los días acordados. Se requiere una técnica muy específica. El analista debe recibir una formación específica y preparación por igual. Ha demostrado ser un instrumento muy eficaz para aliviar el sufrimiento humano y de ir a las causas de ese sufrimiento. El psicoanálisis no es, sin embargo, el tratamiento de elección para todos aquellos que lo soliciten.

@@ -1,0 +1,3 @@
+#Individual focalized, psychoanalytic psychotherapy
+
+Individual focalized, psychoanalytic psychotherapy  (a highly personalized form of what today it has become fashionable to refer to as coaching) is used to focus on one or two aspects of mental life that cause suffering (anxiety, sadness, or fears, mobilize control mechanisms or avoidance mechanisms), and influence negatively relationships and personal development and sense of happiness. It is not the treatment of choice for everybody.

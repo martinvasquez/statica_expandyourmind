@@ -1,0 +1,3 @@
+#Ajuda psicològica a Barcelona
+
+**Expand your mind** com eslògan té el seu origen en els anys 60 a occident quan els protagonistes de la revolució anti-sistema buscaven recuperar el natural i senzill de la vida, donant-li a la seva un nou sentit prenent consciència del seu món interior. És la filosofia d'aquesta professional de la salut mental descobrir i posar-se al servei del que és sa, natural i senzill de cada persona que ve a la consulta, i de la manera més apropiada per a cada consultant. D'aquesta manera podem contribuir a l'harmonia, benestar i tolerància en el món.

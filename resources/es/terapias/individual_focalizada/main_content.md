@@ -1,0 +1,3 @@
+#Psicoterapia individual focalizada
+
+Psicoterapia individual focalizada, psicoanalítica (una forma altamente personalizada de lo que hoy se ha puesto de moda para referirse a como coach). Se utiliza para centrarse en uno o dos aspectos de la vida mental que causa sufrimiento (ansiedad, tristeza o miedo, movilizar a los mecanismos de control o mecanismos de prevención), y la influencia negativa en las relaciones y el desarrollo personal y el sentido de la felicidad. No es el tratamiento de elección para todo el mundo.

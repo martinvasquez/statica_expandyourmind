@@ -1,0 +1,3 @@
+#Couple therapy
+
+Couple therapy is a type of treatment for the couple who considers their relationship to be ailing. The relationship is the patient brought to treatment. The members of the couple who request this treatment may ask for assistance to avoid the break-up of their relationship and improve the quality of their bond, or conversely to terminate their relationship in the best possible way for both members and those closest to them.

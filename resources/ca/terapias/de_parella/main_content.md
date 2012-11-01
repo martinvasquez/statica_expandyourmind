@@ -1,0 +1,3 @@
+#Teràpia de parella
+
+La teràpia de parella és un tipus de tractament per a la parella que considera la seva relació amb l'ésser malalt. La relació és la pacient presentada a tractament. Les  parelles que sol • licita aquest tractament poden demanar ajuda per evitar la ruptura de la seva relació i millorar la qualitat del seu vincle, o per contra donar per acabada la seva relació en la millor manera possible tant per als membres i els més propers a ells.

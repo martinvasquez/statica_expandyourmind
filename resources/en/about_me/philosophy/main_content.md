@@ -1,0 +1,3 @@
+#English-speaking psychologist in Barcelona.
+
+**Expand your mind** was the slogan used by the hippies in the 1960s in the western world in their anti-system protest. They wanted to recover a natural and simple way of existence, giving new meaning to their lives by becoming aware of their inner world. It is my philosophy that the most appropriate way that a mental health professional can work is by putting him or herself in the service of what is healthy, natural and simple in the patients and in those who come for consultation. In this way we can contribute to more harmony, well-being and tolerance in the world.

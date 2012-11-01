@@ -1,0 +1,3 @@
+#Psicoteràpia individual focalitzada
+
+Psicoteràpia individual focalitzada, psicoanalítica (una forma altament personalitzada del que avui s'ha posat de moda per referir-se a com a coach). S'utilitza per centrar-se en un o dos aspectes de la vida mental que causa sofriment (ansietat, tristesa o por, mobilitzar els mecanismes de control o mecanismes de prevenció), i la influència negativa en les relacions i el desenvolupament personal i el sentit de la felicitat. No és el tractament d'elecció per a tothom.

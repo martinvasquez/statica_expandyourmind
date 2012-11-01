@@ -1,0 +1,3 @@
+#Psychoanalysis
+
+Psychoanalysis is a therapeutic approach which, because of the setting established by the analyst, allows for a deep exploration of the personality traits of the patient who comes for treatment. It is ambitious in its aims. Analyst and patient meet four or fives times per week, and on some occasions three, at agreed-upon times and days. It requires a very specific technique. The analyst must receive an equally specific training and preparation. It has shown itself to be a very effective instrument for alleviating human suffering and going to the causes of that suffering. Psychoanalysis is not, nevertheless, the treatment of choice for all who request it.
