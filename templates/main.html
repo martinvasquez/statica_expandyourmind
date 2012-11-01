@@ -1,21 +1,4 @@
 {% extends "base.html" %}
 {% block content %}
-<h1>{{ page.title }}</h1>
-<p>{{ page.description }}</p>
-{{ page.template }}
-
-<ul>
-{% for m in menu %}
-<li>
-  {{ m.title }}
-  {% if m.children %}
-	<ul>
-	  {% for n in m.children %}
-	  <li>{{ n.title }}</li>
-		{% endfor %}
-	</ul>
-	{% endif %}
-</li>
-{% endfor %}
-</ul>
+{{ main_content }}
 {% endblock %}

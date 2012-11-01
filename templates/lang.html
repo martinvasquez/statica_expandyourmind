@@ -1,0 +1,21 @@
+{% if page.lang == "es" %}
+<div id="ribbon">
+	<div id="es" class="language on"><a href="{{ lang_pages.es.lang_url() }}">es</a></div>
+	<div id="en" class="language off"><a href="{{ lang_pages.en.lang_url() }}">en</a></div>
+	<div id="cat" class="language off"><a href="{{ lang_pages.ca.lang_url() }}">cat</a></div>
+</div>
+{% endif %}
+{% if page.lang == "en" %}
+<div id="ribbon">
+	<div id="en" class="language on"><a href="{{ lang_pages.en.lang_url() }}">en</a></div>
+	<div id="es" class="language off"><a href="{{ lang_pages.es.lang_url() }}">es</a></div>
+	<div id="cat" class="language off"><a href="{{ lang_pages.ca.lang_url() }}">cat</a></div>
+</div>
+{% endif %}
+{% if page.lang == "ca" %}
+<div id="ribbon">
+	<div id="cat" class="language on"><a href="{{ lang_pages.ca.lang_url() }}">cat</a></div>
+	<div id="es" class="language off"><a href="{{ lang_pages.es.lang_url() }}">es</a></div>
+	<div id="en" class="language off"><a href="{{ lang_pages.en.lang_url() }}">en</a></div>
+</div>
+{% endif %}
